@@ -1,0 +1,45 @@
+Session ID,Date,Workout,Exercise,Primary muscle,Secondary muscles,Weight (kg),Sets,Reps
+1,12/10/2026,Push,Incline Bench Press (Smith Machine),Chest,Shoulders;Triceps,18.8,3,8
+1,12/10/2026,Push,Shoulder Press (Machine Plates),Shoulders,Triceps,9,2,8
+1,12/10/2026,Push,Chest Fly (Machine),Chest,Shoulders,25,3,8
+1,12/10/2026,Push,Triceps Rope Pushdown,Triceps,None,17,3,5
+1,12/10/2026,Push,Lateral Raise (Dumbbell),Shoulders,None,6,3,8
+1,12/10/2026,Push,Crunch (Machine),Abs,None,32,3,10
+2,13/10/2026,Legs,Hip Thrust (Barbell),Glutes,Hamstrings;Quads,50,2,8
+2,13/10/2026,Legs,Leg Press (Machine),Quads,Glutes;Hamstrings,45,3,10
+2,13/10/2026,Legs,Leg Extension (Machine),Quads,None,18,3,10
+2,13/10/2026,Legs,Hip Adduction (Machine),Adductors,None,25,3,10
+2,13/10/2026,Legs,Calf Extension (Machine),Calves,None,25,2,10
+3,15/10/2026,Pull,Lat Pulldown (Cable),Back,Biceps,32,3,5
+3,15/10/2026,Pull,Seated Cable Row - V Grip (Cable),Back,Biceps;Shoulders,18,3,10
+3,15/10/2026,Pull,Bicep Curl (Cable),Biceps,Forearms,18,3,4
+3,15/10/2026,Pull,Seated Row (Machine),Back,Biceps;Shoulders,18,2,8
+3,15/10/2026,Pull,Rear Delt Reverse Fly (Machine),Shoulders,Back,18,3,10
+4,16/10/2026,Upper,Incline Bench Press (Smith Machine),Chest,Shoulders;Triceps,16.5,2,4
+4,16/10/2026,Upper,Lat Pulldown (Cable),Back,Biceps,35,2,7
+4,16/10/2026,Upper,Chest Fly (Machine),Chest,Shoulders,25,3,5
+4,16/10/2026,Upper,Seated Row (Machine),Back,Biceps;Shoulders,31,2,6
+4,16/10/2026,Upper,Triceps Pushdown,Triceps,None,17.5,2,6
+4,16/10/2026,Upper,Preacher Curl (Barbell),Biceps,Forearms,12,3,7
+4,16/10/2026,Upper,Lateral Raise (Cable),Shoulders,None,1.25,2,10
+5,19/10/2026,Pull,Lat Pulldown (Cable),Back,Biceps,25,3,10
+5,19/10/2026,Pull,Seated Cable Row - V Grip (Cable),Back,Biceps;Shoulders,18,2,10
+5,19/10/2026,Pull,Bicep Curl (Cable),Biceps,Forearms,18,3,5
+5,19/10/2026,Pull,Hammer Curl (Dumbbell),Biceps,Forearms,10,3,8
+5,19/10/2026,Pull,Seated Row (Machine),Back,Biceps;Shoulders,11.3,3,10
+5,19/10/2026,Pull,Rear Delt Reverse Fly (Machine),Shoulders,Back,18,3,10
+6,20/10/2026,Push,Incline Bench Press (Smith Machine),Chest,Shoulders;Triceps,16.3,3,8
+6,20/10/2026,Push,Shoulder Press (Machine Plates),Shoulders,Triceps,9,3,8
+6,20/10/2026,Push,Chest Fly (Machine),Chest,Shoulders,25,3,8
+6,20/10/2026,Push,Triceps Rope Pushdown,Triceps,None,17,3,10
+7,22/10/2026,Pull,Lat Pulldown (Cable),Back,Biceps,27.3,3,10
+7,22/10/2026,Pull,Seated Cable Row - V Grip (Cable),Back,Biceps;Shoulders,18,3,10
+7,22/10/2026,Pull,Bicep Curl (Cable),Biceps,Forearms,7.9,3,8
+7,22/10/2026,Pull,Hammer Curl (Dumbbell),Biceps,Forearms,8,3,10
+7,22/10/2026,Pull,Rear Delt Reverse Fly (Machine),Shoulders,Back,18,3,8
+8,23/10/2026,Push,Incline Bench Press (Smith Machine),Chest,Shoulders;Triceps,16.3,3,10
+8,23/10/2026,Push,Shoulder Press (Machine Plates),Shoulders,Triceps,9,3,10
+8,23/10/2026,Push,Chest Fly (Machine),Chest,Shoulders,25,3,7
+8,23/10/2026,Push,Triceps Rope Pushdown,Triceps,None,17,3,6
+8,23/10/2026,Push,Lateral Raise (Dumbbell),Shoulders,None,6,3,8
+8,23/10/2026,Push,Crunch (Machine),Abs,None,36,2,10
