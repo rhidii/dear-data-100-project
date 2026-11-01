@@ -83,7 +83,7 @@ void setup() {
 }
 
 void draw() {
-  background(15);
+  drawBackground();
 
   // everything drawn after this gets moved and zoomed with the mouse
   pushMatrix();
@@ -121,6 +121,21 @@ void draw() {
   text("BODY", cx, cy + 4);
 
   popMatrix();   // stops the zoom and move from affecting anything else
+}
+
+// this draws the background as a gradient. background(15) wipes the screen first so
+// nothing from the last frame is left behind. then it goes down the screen drawing
+// thin bars, and lerpColor() mixes between a dark blue at the top and a dark purple
+// at the bottom, where amount says how far down we are (0 is the top, 1 is the bottom).
+// each bar is 2 tall and they only move down 1 each time, so they overlap and leave no gaps
+void drawBackground() {
+  background(15);
+  noStroke();
+  for (int y = 0; y < height; y++) {
+    float amount = map(y, 0, height, 0, 1);
+    fill(lerpColor(color(8, 6, 25), color(35, 10, 45), amount));
+    rect(0, y, width, 2);
+  }
 }
 
 // this looks through the muscle objects for one with the name i give it and gives
@@ -181,6 +196,7 @@ class Muscle {
 
 // EXERCISE CLASS: one object for each exercise. it stores the name and which
 // muscles it works, and knows where it sits and how to draw itself
+
 class Exercise {
   String name;
   String primary;         // the main muscle
