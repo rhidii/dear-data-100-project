@@ -1,6 +1,6 @@
 Table table;
 
-// i made two classes, one for the muscles and one for the exercises (they're
+// i made two classes, one for the muscles and one for the exercises (they're 
 // at the bottom of the file). each muscle and each exercise on the screen is an
 // object made from one of these classes, and these lists keep all of the objects
 ArrayList<Muscle> muscles = new ArrayList<Muscle>();
@@ -24,9 +24,9 @@ float cx = 500;   // the middle of the network, this is where the body node goes
 float cy = 475;
 
 // these are for zooming and moving around the network
-float zoom = 0.75;   // 1 is normal size, bigger means zoomed in
-float offsetX;       // how far the whole network has been dragged across
-float offsetY;       // and how far it's been dragged down
+float zoom = 0.75;   
+float offsetX;       
+float offsetY;       
 
 void setup() {
   size(900, 700);
