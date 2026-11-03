@@ -67,3 +67,9 @@ Session ID,Date,Workout,Exercise,Primary muscle,Secondary muscles,Weight (kg),Se
 12,30/10/2026,Upper,Triceps Pushdown,Triceps,None,19,3,8
 12,30/10/2026,Upper,Preacher Curl (Barbell),Biceps,Forearms,12,3,8
 12,30/10/2026,Upper,Lateral Raise (Cable),Shoulders,None,1.25,3,10
+13,03/11/2026,Push,Incline Bench Press (Smith Machine),Chest,Shoulders;Triceps,21.8,3,8
+13,03/11/2026,Push,Shoulder Press (Machine Plates),Shoulders,Triceps,9,3,10
+13,03/11/2026,Push,Chest Fly (Machine),Chest,Shoulders,25,3,8
+13,03/11/2026,Push,Triceps Rope Pushdown,Triceps,None,19,3,8
+13,03/11/2026,Push,Lateral Raise (Dumbbell),Shoulders,None,6,3,10
+13,03/11/2026,Push,Crunch (Machine),Abs,None,40,3,8
